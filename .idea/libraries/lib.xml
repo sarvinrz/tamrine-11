@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../lib.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../lib.zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/../lib.zip!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../lib.zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/../lib.zip!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/../lib.zip!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
